@@ -1,0 +1,33 @@
+
+
+.navbar{
+    background-color: aliceblue;
+}
+.navbar-brand,.navbar-nav{
+    color: rgb(128, 24, 24);
+}
+.title{
+    align-content: center;
+    padding: 200px 0 200px 0;
+}
+.report-update{
+    margin-top: 40px;
+}
+.update-title{
+   padding: 20px 405px 0 ;
+}
+.datetime{
+   
+    margin-left: 300px;
+}
+.prevention-img{
+align-content: center;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  .cases-data{
+padding: 50px;
+margin: 10px;
+  }
